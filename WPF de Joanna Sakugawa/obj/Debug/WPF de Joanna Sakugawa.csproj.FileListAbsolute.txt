@@ -1,0 +1,86 @@
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\MainWindow.g.cs
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\App.g.cs
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa_MarkupCompile.cache
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa_MarkupCompile.lref
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.exe.config
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.exe
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.pdb
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\MainWindow.baml
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.g.resources
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF_de_Joanna_Sakugawa.Properties.Resources.resources
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.csproj.GenerateResource.cache
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.exe
+C:\Users\Alan\Desktop\WPF proyecto\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.pdb
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.exe.config
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.exe
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.pdb
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.csprojAssemblyReference.cache
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\MainWindow.g.cs
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\App.g.cs
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa_MarkupCompile.cache
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa_MarkupCompile.lref
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\MainWindow.baml
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.g.resources
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF_de_Joanna_Sakugawa.Properties.Resources.resources
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.csproj.GenerateResource.cache
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.csproj.CoreCompileInputs.cache
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.exe
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.pdb
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\Views\PatenteList.g.cs
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa\WPF de Joanna Sakugawa\obj\Debug\Views\PatenteList.baml
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.exe.config
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.exe
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.pdb
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\obj\Debug\Views\PatenteList.g.cs
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\obj\Debug\App.g.cs
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa_MarkupCompile.cache
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa_MarkupCompile.lref
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\obj\Debug\Views\PatenteList.baml
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.g.resources
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\obj\Debug\WPF_de_Joanna_Sakugawa.Properties.Resources.resources
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.csproj.GenerateResource.cache
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.exe
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.pdb
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\obj\Debug\Views\MainWindow.g.cs
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\obj\Debug\Views\MainWindow.baml
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.csproj.CoreCompileInputs.cache
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.exe.config
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.exe
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.pdb
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.csprojAssemblyReference.cache
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\Views\MainWindow.g.cs
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\Views\PatenteList.g.cs
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\App.g.cs
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa_MarkupCompile.cache
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa_MarkupCompile.lref
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\Views\MainWindow.baml
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\Views\PatenteList.baml
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.g.resources
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\WPF_de_Joanna_Sakugawa.Properties.Resources.resources
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.csproj.GenerateResource.cache
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.csproj.CoreCompileInputs.cache
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.exe
+C:\Users\jsakugawa\Documents\My pc\WPF de Joanna Sakugawa - Copy ESTE\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.pdb
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\Views\MainWindow.g.cs
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\App.g.cs
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa_MarkupCompile.cache
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa_MarkupCompile.lref
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.exe
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.pdb
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.exe.config
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.exe
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\bin\Debug\WPF de Joanna Sakugawa.pdb
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\Views\MainWindow.baml
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.g.resources
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\WPF_de_Joanna_Sakugawa.Properties.Resources.resources
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.csproj.GenerateResource.cache
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\WPF de Joanna Sakugawa.csproj.CoreCompileInputs.cache
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\Views\EditarPatente.g.cs
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\Views\EditarPatente.baml
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\Views\EliminarPatente.g.cs
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\Views\EliminarPatente.baml
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\Views\AltaPatente.g.cs
+C:\Users\jsakugawa\Desktop\WPF de Joanna Sakugawa - EDIT\WPF de Joanna Sakugawa\obj\Debug\Views\AltaPatente.baml

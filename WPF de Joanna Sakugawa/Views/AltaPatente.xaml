@@ -1,0 +1,51 @@
+﻿<Window x:Class="WPF_de_Joanna_Sakugawa.Views.AltaPatente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_de_Joanna_Sakugawa.Views"
+        xmlns:vm="clr-namespace:WPF_de_Joanna_Sakugawa.ViewModels"
+        mc:Ignorable="d"
+        Title="Ingreso vehicular" Height="450" Width="800">
+    <Window.DataContext>
+        <vm:PatenteViewModel/>
+    </Window.DataContext>
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Black" Offset="0"/>
+            <GradientStop Color="#FF11A9C7" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid Margin="0,5,4,0" Height="413" VerticalAlignment="Top">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="#FF061B1B" Offset="1"/>
+                <GradientStop Color="#FF2DAAB1"/>
+                <GradientStop Color="#FF020909" Offset="1"/>
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FFC5CCE4" Offset="0.833"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button Height="29" HorizontalAlignment="Right" Margin="0,270,357,0" Name="btnAlta" VerticalAlignment="Top" Width="96" Click="btnAlta_Click" Background="{x:Null}" FontSize="14" >
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> Grabar
+        </Button>
+        <Label Height="28" Margin="0,140,598,0" Name="lblPatente" VerticalAlignment="Top" HorizontalAlignment="Right" Width="107" FontSize="13">Ingrese Patente:</Label>
+        <Label Margin="0,212,551,167" x:Name="lblMarca" HorizontalAlignment="Right" Width="154" Content="Ingrese Marca:" FontSize="13"/>
+        <Label Margin="0,0,601,92" x:Name="lblModelo" Height="28" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="104" Content="Ingrese Modelo" RenderTransformOrigin="0.423,0.464" FontSize="13"/>
+        <Button Height="33" HorizontalAlignment="Right" Margin="0,0,244,53" x:Name="btnSalir" VerticalAlignment="Bottom" Width="92" Click="btnAtras_Click" Content="Atrás" Background="{x:Null}" FontSize="14" >
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label Height="45" Margin="268,24,0,0" x:Name="label4" VerticalAlignment="Top" HorizontalAlignment="Left" Width="276" FontWeight="Bold" Content="Ingreso de vehículo nuevo" FontSize="20"/>
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,178,551,0" Name="txtnuevaPatente" Text="{Binding Nro_Patente}" VerticalAlignment="Top" Width="154" >
+        </TextBox>
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,0,551,139" Name="txtnuevaMarca" Text="{Binding Marca}" VerticalAlignment="Bottom" Width="154" />
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,0,551,64" Name="txtnuevoModelo" Text="{Binding Modelo}" VerticalAlignment="Bottom" Width="154" />
+        <Image HorizontalAlignment="Left" Height="176" Margin="581,212,0,0" VerticalAlignment="Top" Width="207" Source="/Iconos/articles-9043_recurso_2.png"/>
+        <Image HorizontalAlignment="Left" Height="69" Margin="335,196,0,0" VerticalAlignment="Top" Width="71" Source="/Iconos/icons8-más-48.png"/>
+        <Label Height="71" Margin="83,69,0,0" x:Name="label4_Copy" VerticalAlignment="Top" HorizontalAlignment="Left" Width="348" Content="Para realizar el ingreso&#xA;del vehículo complete los siguientes campos*" FontWeight="Bold" FontSize="14"/>
+    </Grid>
+</Window>
